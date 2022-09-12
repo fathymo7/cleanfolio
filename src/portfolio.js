@@ -11,7 +11,7 @@ const about = {
   description:
     'Web developer with a proven ability to collaborate effectively with senior developers while spending extra time to be mentored. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary. With a passion for both personal growth and technical growth. ',
   resume:
-    'https://drive.google.com/file/d/1q3I1ieqnRAR_aDcsAb4JYBgrx3UTOXas/view?usp=sharing',
+    'https://drive.google.com/file/d/1T5JshKGlQ077EeUzccAagquAJrY8lD42/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/fathy-mohsen',
     github: 'https://github.com/fathymo7',
